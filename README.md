@@ -14,5 +14,5 @@ Learn more about the mentors in this year's program and what they can help you w
 <!-- <br> [Psych Grad Students bCourses Page](https://bcourses.berkeley.edu/courses/1284975) -->
 
 ## Contact Us
-If you have any questions, feel free to send us (the program coordinators) an [email](mailto:alyson_wong@berkeley.edu,kcassutt@berkeley.edu,jenpark23@berkeley.edu,s.hong@berkeley.edu). 
+If you have any questions or feedback, feel free to send us (the program coordinators) an [email](mailto:alyson_wong@berkeley.edu,kcassutt@berkeley.edu,jenpark23@berkeley.edu,s.hong@berkeley.edu). 
 
