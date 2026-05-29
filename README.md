@@ -9,6 +9,7 @@ This program is designed to help support incoming UC Berkeley Psychology first-y
 Learn more about the mentors in this year's program and what they can help you with!
 
 ## [Upcoming Events](events.md)
+Check out our upcoming events for mentors and mentees!
 
 ## Contact Us
 If you have any questions, feel free to send us (the program coordinators) an [email](mailto:alyson_wong@berkeley.edu,kcassutt@berkeley.edu,jenpark23@berkeley.edu,s.hong@berkeley.edu,victoria_keating@berkeley.edu). 
