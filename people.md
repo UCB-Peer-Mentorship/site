@@ -5,7 +5,7 @@
 ### Alyson Wong
 <br>Email: alyson_wong@berkeley.edu
 <br>Area: Developmental
-<br>Open to providing guidance about: Statistics, Public speaking, Coding, Advisor/Advisee relationships, Funding resources
+<br>Can provide guidance on: Statistics, Public speaking, Coding, Advisor/Advisee relationships, Funding resources
 
 ### Kylie Cassutt
 
