@@ -3,7 +3,7 @@
 ## Program Coordinators
 
 ### Alyson Wong
-<b>Email</b>: [email](mailto:alyson_wong@berkeley.edu)
+<b>Email</b>: [alyson_wong@berkeley.edu](mailto:alyson_wong@berkeley.edu)
 <br><b>Area</b>: Developmental
 <br><b>Can Provide Guidance On</b>: Statistics, Public speaking, Coding, Advisor/Advisee relationships, Funding resources
 
