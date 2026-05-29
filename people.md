@@ -3,10 +3,9 @@
 ## Program Coordinators
 
 ### Alyson Wong
-Email: alyson_wong@berkeley.edu
-Area: Developmental
-<br>Open to providing guidance about:
-<br>Statistics, Public speaking, Coding, Advisor/Advisee relationships, Funding resources
+<br>Email: alyson_wong@berkeley.edu
+<br>Area: Developmental
+<br>Open to providing guidance about: Statistics, Public speaking, Coding, Advisor/Advisee relationships, Funding resources
 
 ### Kylie Cassutt
 
