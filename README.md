@@ -1,4 +1,6 @@
-<img src="mentorship.jpeg" alt="mentorship" height="350">
+<p align="center">
+  <img src="mentorship.jpeg" alt="mentorship" height="350">
+</p>
 
 # Welcome to the Graduate Student Peer Mentorship Program!
 This program is designed to help support incoming UC Berkeley Psychology first-year graduate students. First-year students are typically paired with more senior graduate students who can provide insight and guidance on a variety of topics.
