@@ -2,7 +2,7 @@
 This program is designed to help support incoming UC Berkeley Psychology first-year graduate students. First-year students are typically paired with more senior graduate students who can provide insight and guidance on a variety of topics.
 
 ## Upcoming Events
-Check back for our upcoming events for mentors and mentees in the Fall semester!
+Check back for our upcoming Fall semester events for mentors and mentees!
 
 ## [People](people.md)
 Learn more about the mentors in this year's program and what they can help you with! All mentors with contact information provided are open to being contacted by any mentees about the topics listed under their name.
