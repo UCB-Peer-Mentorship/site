@@ -1,5 +1,7 @@
 # People
 
+All mentors and coordinators with their email and topics listed are open to being contacted by any mentees! Feel free to reach out to anyone, including other mentors who you are not paired with.
+
 ## Program Coordinators
 
 ### Alyson Wong
