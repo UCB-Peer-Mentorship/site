@@ -6,10 +6,10 @@
 
 ### Kylie Cassutt
 
-### Victoria Keating
-
 ### Jen Park
 
 ### Shannon Hong
+
+### Victoria Keating
 
 ## Graduate Student Mentors
