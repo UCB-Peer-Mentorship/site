@@ -14,22 +14,24 @@
   </div>
 </div>
 
-### Alyson Wong
-<b>Email</b>: [alyson_wong@berkeley.edu](mailto:alyson_wong@berkeley.edu)
-<br><b>Area</b>: Developmental
-<br><b>Open to Being Contacted About</b>: Statistics, Public Speaking, Coding, Advisor/Advisee Relationships, Funding Resources
-<br>
+<div style="display:flex; gap:20px; margin-bottom:30px">
+  <img src="people/bear.jpeg" alt="image" width=150 style="object-fit:cover;">
+  <div>
+    <h3>Jen Park</h3>
+    <b>Email</b>: <a href="mailto:jenpark23@berkeley.edu">jenpark23@berkeley.edu</a><br>
+    <b>Area</b>: Cognition<br>
+    <b>Open to Being Contacted About</b>: Navigating your first year
+  </div>
+</div>
 
-### Jen Park
-<b>Email</b>: [jenpark23@berkeley.edu](mailto:jenpark23@berkeley.edu)
-<br><b>Area</b>: Cognition
-<br><b>Open to Being Contacted About</b>: Navigating your first year
-<br>
-
-### Shannon Hong
-<b>Email</b>: [s.hong@berkeley.edu](mailto:s.hong@berkeley.edu)
-<br><b>Area</b>: Clinical
-<br><b>Open to Being Contacted About</b>: Public Speaking, Science Communication, Advisor/Advisee Relationships, Work/Life Balance
-<br>
+<div style="display:flex; gap:20px; margin-bottom:30px">
+  <img src="people/bear.jpeg" alt="image" width=150 style="object-fit:cover;">
+  <div>
+    <h3>Shannon Hong</h3>
+    <b>Email</b>: <a href="mailto:s.hong@berkeley.edu">s.hong@berkeley.edu</a><br>
+    <b>Area</b>: Clinical<br>
+    <b>Open to Being Contacted About</b>: Public Speaking, Science Communication, Advisor/Advisee Relationships, Work/Life Balance
+  </div>
+</div>
 
 ## Graduate Student Mentors
