@@ -5,7 +5,7 @@
 ## Program Coordinators
 
 <div style="display:flex; gap:20px; margin-bottom:30px">
-  <img src="people/alyson_wong.png" alt="image" width=150 style="object-fit:cover;">
+  <img src="people/alyson_wong.png" alt="image" width=150 height=150 style="object-fit:cover;">
   <div>
     <h3>Alyson Wong</h3>
     <b>Email</b>: <a href="mailto:alyson_wong@berkeley.edu">alyson_wong@berkeley.edu</a><br>
@@ -15,7 +15,7 @@
 </div>
 
 <div style="display:flex; gap:20px; margin-bottom:30px">
-  <img src="people/bear.jpeg" alt="image" width=150 style="object-fit:cover;">
+  <img src="people/bear.jpeg" alt="image" width=150 height=150 style="object-fit:cover;">
   <div>
     <h3>Jen Park</h3>
     <b>Email</b>: <a href="mailto:jenpark23@berkeley.edu">jenpark23@berkeley.edu</a><br>
@@ -25,7 +25,7 @@
 </div>
 
 <div style="display:flex; gap:20px; margin-bottom:30px">
-  <img src="people/bear.jpeg" alt="image" width=150 style="object-fit:cover;">
+  <img src="people/bear.jpeg" alt="image" width=150 height=150 style="object-fit:cover;">
   <div>
     <h3>Shannon Hong</h3>
     <b>Email</b>: <a href="mailto:s.hong@berkeley.edu">s.hong@berkeley.edu</a><br>
