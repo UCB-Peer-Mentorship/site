@@ -9,7 +9,7 @@
   <div>
     <h3>Alyson Wong</h3>
     <b>Email</b>: <a href="mailto:alyson_wong@berkeley.edu">alyson_wong@berkeley.edu</a><br>
-    <b>Area</b>: Developmental
+    <b>Area</b>: Developmental<br>
     <b>Open to Being Contacted About</b>: Statistics, Public Speaking, Coding, Advisor/Advisee Relationships, Funding Resources
   </div>
 </div>
