@@ -10,4 +10,16 @@
 <br><b>Open to Being Contacted About</b>: Statistics, Public Speaking, Coding, Advisor/Advisee Relationships, Funding Resources
 <br>
 
+### Jen Park
+<b>Email</b>: [jenpark23@berkeley.edu](mailto:jenpark23@berkeley.edu)
+<br><b>Area</b>: Cognition
+<br><b>Open to Being Contacted About</b>: Navigating your first year
+<br>
+
+### Shannon Hong
+<b>Email</b>: [s.hong@berkeley.edu](mailto:s.hong@berkeley.edu)
+<br><b>Area</b>: Clinical
+<br><b>Open to Being Contacted About</b>: Public Speaking, Science Communication, Advisor/Advisee Relationships, Work/Life Balance
+<br>
+
 ## Graduate Student Mentors
