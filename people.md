@@ -4,6 +4,16 @@
 
 ## Program Coordinators
 
+<div style="display:flex; gap:20px; margin-bottom:30px">
+  <img src="people/alyson_wong.jpg" alt="image" width=120 style="object-fit:cover;"
+  <div>
+    <h3>Alyson Wong</h3>
+    <b>Email</b>: <a href="mailto:alyson_wong@berkeley.edu">alyson_wong@berkeley.edu</a><br>
+    <b>Area</b>: Developmental
+    <b>Open to Being Contacted About</b>: Statistics, Public Speaking, Coding, Advisor/Advisee Relationships, Funding Resources
+  </div>
+</div>
+
 ### Alyson Wong
 <b>Email</b>: [alyson_wong@berkeley.edu](mailto:alyson_wong@berkeley.edu)
 <br><b>Area</b>: Developmental
