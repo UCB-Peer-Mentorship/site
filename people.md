@@ -25,7 +25,7 @@
 </div>
 
 <div style="display:flex; gap:20px; margin-bottom:30px">
-  <img src="people/Shannon Hong Headshot.jpg" alt="image" width=150 height=auto style="object-fit:cover;">
+  <img src="people/Shannon Hong.jpg" alt="image" width=150 height=auto style="object-fit:cover;">
   <div>
     <h3>Shannon Hong</h3>
     <b>Email</b>: <a href="mailto:s.hong@berkeley.edu">s.hong@berkeley.edu</a><br>
