@@ -35,3 +35,13 @@
 </div>
 
 ## Graduate Student Mentors
+
+<div style="display:flex; gap:20px; margin-bottom:30px">
+  <img src="people/Yasmin_Landa.png" alt="image" width=150 height=auto style="object-fit:cover;">
+  <div>
+    <h3>Yasmín Landa</h3>
+    <b>Email</b>: <a href="mailto:yaslanda@berkeley.edu">yaslanda@berkeley.edu</a><br>
+    <b>Area</b>: Clinical<br>
+    <b>Open to Being Contacted About</b>: Public Speaking, Advisor/Advisee Relationships, Funding Resources, Work/Life Balance, Networking
+  </div>
+</div>
