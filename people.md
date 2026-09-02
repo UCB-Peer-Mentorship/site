@@ -57,7 +57,7 @@
 </div>
 
 <div style="display:flex; gap:20px; margin-bottom:30px">
-  <img src="people/Maggie_Vashel.tiff" alt="image" width=150 height=auto style="object-fit:cover;">
+  <img src="people/Maggie_Vashel.png" alt="image" width=150 height=auto style="object-fit:cover;">
   <div>
     <h3>Maggie Vashel</h3>
     <b>Email</b>: <a href="mailto:maggie_vashel@berkeley.edu">maggie_vashel@berkeley.edu</a><br>
