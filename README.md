@@ -9,7 +9,7 @@ We encourage you all to attend our Fall semester events for mentors and mentees!
 <b>Wednesday 11/18</b>: Friendsgiving Potluck
 
 ## [People](people.md)
-Learn more about the mentors in this year's program and what they can help you with! All mentors with contact information provided are open to being contacted by any mentees about the topics listed under their name.
+Learn more about some of the mentors in this year's program and what they can help you with! All mentors with contact information provided are open to being contacted by any mentees about the topics listed under their name.
 
 ## Other Resources
 <a href="https://berkeley-psych-grad-students.gitbook.io/surviving-the-bay-area" target="_blank">Surviving the Bay Area Guide</a>
