@@ -13,9 +13,8 @@ Learn more about some of the mentors in this year's program and what they can he
 
 ## Other Resources
 <a href="https://berkeley-psych-grad-students.gitbook.io/surviving-the-bay-area" target="_blank">Surviving the Bay Area Guide</a>
-<!-- [Surviving the Bay Area Guide](https://berkeley-psych-grad-students.gitbook.io/surviving-the-bay-area) -->
-<!-- <br>[UCB Psych Grads Slack Channel](ucb-psychgrads.slack.com) -->
-<!-- <br> [Psych Grad Students bCourses Page](https://bcourses.berkeley.edu/courses/1284975) -->
+<a href="ucb-psychgrads.slack.com" target="_blank">UCB Psych Grads Slack Channel
+<a href="https://bcourses.berkeley.edu/courses/1284975" target="_blank">Psych Grad Students bCourses Page
 
 ## Contact Us
 If you have any questions or feedback, feel free to send us (the program coordinators) an [email](mailto:alyson_wong@berkeley.edu,kcassutt@berkeley.edu,jenpark23@berkeley.edu,s.hong@berkeley.edu). 
