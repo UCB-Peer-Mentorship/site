@@ -4,6 +4,7 @@ This program is designed to help support incoming UC Berkeley Psychology first-y
 ## Upcoming Events
 We encourage you all to attend our Fall semester events for mentors and mentees!
 
+| ------|-------|
 | <b>Saturday 9/12</b> | GASP Welcome BBQ (Yali's gift cards will be distributed to mentees) |
 | <b>Wednesday 10/7</b> | Games / Arts & Crafts (with light refreshments!) |
 | <b>Wednesday 11/18</b> | Friendsgiving Potluck |
