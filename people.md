@@ -20,7 +20,7 @@
     <h3>Kylie Cassutt</h3>
     <b>Email</b>: <a href="mailto:kcassutt@berkeley.edu">kcassutt@berkeley.edu</a><br>
     <b>Area</b>: Social-Personality<br>
-    <b>Open to Being Contacted About</b>: Statistics, Coding, Advisor/Advisee relationship, Work/Life Balance
+    <b>Open to Being Contacted About</b>: Statistics, Coding, Advisor/Advisee Relationships, Work/Life Balance
   </div>
 </div>
 
@@ -30,7 +30,7 @@
     <h3>Jen Park</h3>
     <b>Email</b>: <a href="mailto:jenpark23@berkeley.edu">jenpark23@berkeley.edu</a><br>
     <b>Area</b>: Cognition<br>
-    <b>Open to Being Contacted About</b>: Navigating your first year
+    <b>Open to Being Contacted About</b>: Advisor/Advisee Relationships, Networking
   </div>
 </div>
 
@@ -52,7 +52,7 @@
     <h3>Gillian Ozawa</h3>
     <b>Email</b>: <a href="mailto:gillian_ozawa@berkeley.edu">gillian_ozawa@berkeley.edu</a><br>
     <b>Area</b>: Cognitive Neuroscience<br>
-    <b>Open to Being Contacted About</b>: Advisor/Advisee relationship, Funding Resources, Work/Life Balance, Networking
+    <b>Open to Being Contacted About</b>: Advisor/Advisee Relationships, Funding Resources, Work/Life Balance, Networking
   </div>
 </div>
 
@@ -62,7 +62,7 @@
     <h3>Maggie Vashel</h3>
     <b>Email</b>: <a href="mailto:maggie_vashel@berkeley.edu">maggie_vashel@berkeley.edu</a><br>
     <b>Area</b>: Cognitive Neuroscience<br>
-    <b>Open to Being Contacted About</b>: Statistics, Coding, Advisor/Advisee relationship, Funding Resources, Work/Life Balance
+    <b>Open to Being Contacted About</b>: Statistics, Coding, Advisor/Advisee Relationships, Funding Resources, Work/Life Balance
   </div>
 </div>
 
