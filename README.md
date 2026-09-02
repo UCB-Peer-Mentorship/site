@@ -15,7 +15,7 @@ Learn more about some of the mentors in this year's program and what they can he
 
 ## Other Resources
 <a href="https://berkeley-psych-grad-students.gitbook.io/surviving-the-bay-area" target="_blank">Surviving the Bay Area Guide</a>
-<br><a href="ucb-psychgrads.slack.com" target="_blank">UCB Psych Grads Slack Channel
+<br><a href="https://ucb-psychgrads.slack.com" target="_blank">UCB Psych Grads Slack Channel
 <br><a href="https://bcourses.berkeley.edu/courses/1284975" target="_blank">Psych Grad Students bCourses Page
 
 ## Contact Us
