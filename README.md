@@ -4,7 +4,7 @@ This program is designed to help support incoming UC Berkeley Psychology first-y
 ## Upcoming Events
 We encourage you all to attend our Fall semester events for mentors and mentees!
 
-| Date | Time | Location | Event |
+| Date | Time &nbsp; &nbsp | Location | Event |
 | ------|-------|-------|-------|
 | <b>Saturday 9/12</b> | 1pm | Live Oak Park | GASP Welcome BBQ (Yali's gift cards will be distributed to mentees) |
 | <b>Wednesday 10/7</b> | 5-7pm | BWW 3101 | Games / Arts & Crafts (with light refreshments!) |
