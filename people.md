@@ -112,6 +112,6 @@
     <h3>Ziwei Cheng</h3>
     <b>Email</b>: <a href="mailto:ziweicheng@berkeley.edu">ziweicheng@berkeley.edu</a><br>
     <b>Area</b>: Cognition, Cognitive Neuroscience<br>
-    <b>Open to Being Contacted About</b>: Statistics, Coding, Advisor/Advisee relationship, Work/Life Balance
+    <b>Open to Being Contacted About</b>: Statistics, Coding, Advisor/Advisee Relationships, Work/Life Balance
   </div>
 </div>
